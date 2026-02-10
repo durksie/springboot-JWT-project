@@ -1,4 +1,4 @@
-package com.gift.springboot.JWT.project.service;
+package com.gift.springboot.JWT.project.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

@@ -1,6 +1,5 @@
 package com.gift.springboot.JWT.project.config;
 
-import com.gift.springboot.JWT.project.service.JwtService;
 import jakarta.annotation.Nonnull;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
